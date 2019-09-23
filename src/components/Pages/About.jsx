@@ -14,9 +14,9 @@ export default class Resume extends Component {
             <p>Saya berusia 30 tahun memiliki pengalaman kerja di Instansi Pemerintahan. Saat ini sedang menekuni sebagai front end developer seperti html, css, javascript, dom manipulation, json, redux dan react.js.  
             Memiliki Komunikasi yang baik, siap untuk belajar hal baru, bersemangat, pekerja keras dan jujur.
             </p>
-            <Link to="/">
-         <Button bsStyle="primary" className="Button">Download Full Resume</Button>
-        </Link>
+          <Link to="/">
+          <Button bsStyle="primary" className="Button">Download Full Resume</Button>
+          </Link>
             </Col>
             <Col xs={15} sm={3} className="identity-section">
             <ul>
